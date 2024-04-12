@@ -1,0 +1,10 @@
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\bin\x86\Debug\LocationCplRemake.exe.config
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\bin\x86\Debug\LocationCplRemake.exe
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\bin\x86\Debug\LocationCplRemake.pdb
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\obj\x86\Debug\LocationCplRemake.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\obj\x86\Debug\LocationCplRemake.Form1.resources
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\obj\x86\Debug\LocationCplRemake.Properties.Resources.resources
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\obj\x86\Debug\LocationCplRemake.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\obj\x86\Debug\LocationCplRemake.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\obj\x86\Debug\LocationCplRemake.exe
+C:\Users\Home\Desktop\project\LocationCplRemake\LocationCplRemake\obj\x86\Debug\LocationCplRemake.pdb
